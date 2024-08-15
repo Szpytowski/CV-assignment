@@ -1,0 +1,127 @@
+body {
+  font-family: roboto, sans-serif;
+  color: #333;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  height: 5%;
+}
+
+.resume-container {
+  max-width: 900px;
+  margin: 30px auto;
+  background: #fff;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 15%);
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 5vh;
+  color: white;
+  background: #333333;
+}
+
+.header h1 {
+  font-size: 2.5em;
+  margin: 0;
+  letter-spacing: 2px;
+  padding: 15px;
+}
+
+.header .title {
+  font-size: 20px;
+  margin-top: 5px;
+  font-weight: normal;
+  letter-spacing: 1px;
+  padding-bottom: 10px;
+}
+
+.content {
+  display: flex;
+}
+
+.sidebar {
+  width: 30%;
+  padding-right: 20px;
+  text-align: right;
+  background: #f8f8f8;
+}
+
+.sidebar h2 {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+}
+
+.sidebar p,
+.sidebar ul,
+.sidebar a {
+  margin: 10px 0;
+  font-size: 0.9em;
+  line-height: 1.4;
+}
+
+.sidebar ul {
+  padding-left: 20px;
+}
+
+.sidebar a {
+  color: #0073e6;
+  text-decoration: none;
+}
+
+.main-content {
+  width: 70%;
+  padding-left: 10px;
+}
+
+.linkedin-container{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.main-content h2 {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+}
+
+.job, .project {
+  margin-bottom: 20px;
+}
+
+.job h3, .project h3 {
+  font-size: 1.1em;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #333;
+}
+
+.job p, .project p {
+  margin: 5px 0;
+  font-size: 0.9em;
+  color: grey;
+}
+
+.job ul, .project ul {
+  padding-left: 20px;
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.job ul li, .project ul li {
+  margin-bottom: 10px;
+}
+
+.bx {
+  padding-left: 5px;
+}
