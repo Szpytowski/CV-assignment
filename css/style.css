@@ -83,7 +83,7 @@ header p {
   padding-left: 10px;
 }
 
-.linkedin-container{
+.linkedin-container {
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -135,4 +135,8 @@ footer {
   padding-left: 20%;
   padding-right: 20%;
   text-align: center; /* Centers the text within the footer */
+}
+
+.main-content {
+  margin-right: 15px;
 }
