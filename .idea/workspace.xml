@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2008a514-c0bf-445a-a873-e02f60f249a5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +28,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "cv-implementation",
-    "last_opened_file_path": "C:/Users/nicob/WebstormProjects/untitled",
+    "git-widget-placeholder": "fixes",
+    "last_opened_file_path": "C:/Users/nicob/WebstormProjects/cv-recreate-from-web",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,6 +59,10 @@
       <workItem from="1724064294408" duration="3158000" />
       <workItem from="1724165881913" duration="23000" />
       <workItem from="1724166245313" duration="1359000" />
+      <workItem from="1724885328441" duration="128000" />
+      <workItem from="1725048713106" duration="78000" />
+      <workItem from="1725094751029" duration="1098000" />
+      <workItem from="1725355692564" duration="1013000" />
     </task>
     <servers />
   </component>

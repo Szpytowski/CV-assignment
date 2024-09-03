@@ -51,7 +51,7 @@ header p {
 .sidebar {
   width: 30%;
   padding-right: 20px;
-  text-align: right;
+  padding-left: 20px;
   background: #f8f8f8;
 }
 
@@ -85,7 +85,6 @@ header p {
 
 .linkedin-container {
   display: flex;
-  justify-content: flex-end;
   align-items: center;
 }
 
@@ -129,12 +128,23 @@ header p {
 
 footer {
   display: flex;
-  justify-content: center; /* Horizontally centers the content */
-  align-items: center; /* Vertically centers the content */
+  justify-content: center;
+  align-items: center;
   height: 15%;
   padding-left: 20%;
   padding-right: 20%;
-  text-align: center; /* Centers the text within the footer */
+  text-align: center;
+}
+@media (max-width: 576px) {
+  footer {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+   .sidebar {
+   padding-right: 10%
+   }
 }
 
 .main-content {
